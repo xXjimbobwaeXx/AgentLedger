@@ -1,5 +1,4 @@
 # AgentLedger
-# AgentLedger
 
 **Verifiable, tamper-evident audit trails for AI agents.** Built for the TON / $GRAM ecosystem and Telegram.
 
