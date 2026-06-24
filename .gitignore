@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+**/node_modules/
+
+# secrets — NEVER commit real env files
+.env
+.env.*
+!.env.example
+
+# build output
+dist/
+build/
+**/dist/
+**/build/
+.vite/
+
+# logs
+*.log
+npm-debug.log*
+logs/
+
+# test / coverage
+coverage/
+.nyc_output/
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
